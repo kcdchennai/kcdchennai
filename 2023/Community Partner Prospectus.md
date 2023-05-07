@@ -49,7 +49,7 @@ For more details, visit our website https://kcdchennai.in
   - Community partner announcement from KCD Chennai social media handles (Twitter & LinkedIn)
   - One pull-up standee of your community in the venue (cost to be borne by community partner).
   - In case you help in securing at least 1 sponsor for KCD Chennai 2023,
-    - we'll allot a booth (3 x 3 m) for your community in the venue (cost to be borne by community partner).
+    - we'll allot a basic booth (3 x 3 m) for your community in the venue at our own cost. The cost of setting up the booth with banners, signage, LED screens etc. to be borne by community partner.
     - we'll allow you to present your community to the attendees in a brief 5 minute talk (1 slide only)
 
 
