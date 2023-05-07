@@ -29,7 +29,7 @@ For more details, visit our website https://kcdchennai.in
 - Min. 2 posts from your social media handles (Twitter and LinkedIn)
 - Min. 2 emails to your community members
 - Min. 5 retweets/reposts from your social media handles
-- Secure min. 1 sponsor for the event
+- Refer min. 3 sponsors for the event
 - Sell min. 25 tickets to your community members, using discount vouchers
 
 **Optional:**
@@ -47,9 +47,9 @@ For more details, visit our website https://kcdchennai.in
 - Get to promote your community during KCD Chennai 2023 event.
   - Your community logo on the event website
   - Community partner announcement from KCD Chennai social media handles (Twitter & LinkedIn)
-  - Present your community to the attendees in a brief 5 minute talk (1 slide)
+  - Present your community to the attendees in a brief 5 minute talk (1 slide only)
   - One pull-up standee of your community in the venue (cost to be borne by community partner).
-  - A booth of your community in the venue (cost to be borne by community partner).
+  - In case you help in securing at least 1 sponsor for KCD Chennai 2023, we'll allot a booth (3 x 3 m) for your community in the venue (cost to be borne by community partner).
 - KCD Chennai community will promote your annual flagship event within our community members.
   - Min. 2 posts from our social media handles (Twitter and LinkedIn) 
   - Min. 2 emails to our community members
