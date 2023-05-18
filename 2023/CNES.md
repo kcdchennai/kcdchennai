@@ -2,7 +2,7 @@
 
 The Cloud Native Enthusiast Scholarship (CNES) program from KCD Chennai is an effort to **celebrate** and **reward** you for your contribution towards advancement and adoption of Cloud Native technologies and tools.
 
-You'll be rewarded with a discount code to purchase tickets to KCD Chennai 2023. **You could win discount up to YY%**
+You'll be rewarded with a discount code to purchase tickets to KCD Chennai 2023. **You could win up to YY% discount**
 
 ## About KCD Chennai 2023
 
@@ -22,14 +22,14 @@ The information you provide in the application will be reviewed by KCD Chennai's
 
 ## Assessment Criteria
 
-The CNES Panel assesses the information you provide and decides the amount of discount you are eligible to receive. The Panel specifically looks for following information from applicants.
+The CNES Panel assesses the information you provide and decides the amount of discount you are eligible to receive. The Panel specifically looks for the following information from applicants.
 
-- **Training courses:** If you've completed a training on Kubernetes or Cloud Native technologies. You should have received a course completion certificate.
+- **Training courses:** If you've completed training courses on Kubernetes or Cloud Native technologies. You should submit course completion certificates of the courses you completed.
 - **Certification:** Holds one or more LF/CNCF certifications mentioned in the [LF Certification catalog](https://training.linuxfoundation.org/full-catalog/?_sft_product_type=certification)
 - **Blogging:** Writing blogs related to Kubernetes and Cloud Native technologies. Both technical and non-technical (process, methodologies, lessons learnt etc.) blogs are considered.
-- **Knowledge sharing:** Teaching and sharing your knowledge/experience on Kubernetes and Cloud Native technologies/projects. E.g. Talks in Conferences, Presentations in Meetups, YouTube Videos, Webinars, Conducting Training courses etc.
+- **Knowledge sharing:** Teaching and sharing your knowledge/experience on Kubernetes and Cloud Native technologies/projects. E.g. Talks in Conferences, Presentations in Meetups, Creating YouTube Videos, Conducting Webinars, Conducting Training courses etc.
 - **Open source contribution:** Contribution in all forms is welcome: Submitting PR, Maintainer, Reviewer, Issues triage etc.
-- **Building communities:** Organizing meetups or community groups. Contribution as a volunteer is accepted as well.
+- **Building communities:** Organizing Conferences, meetups or community groups. Contribution as a volunteer is accepted as well.
 
 ## Application Process
 
@@ -42,24 +42,31 @@ The application process is very simple.
 
 ## Frequently Asked Questions (FAQs)
 
-1. Is every applicant guaranteed to receive the discount code?
+1.&nbsp;Is every applicant guaranteed to receive the discount code?
+
 No. If an applicant submits at least one valid proof mentioned in the Assessment Criteria, he/she is guaranteed to receive the discount code
 
-2. What is the minimum and maximum discount one can receive?
+2.&nbsp;What is the minimum and maximum discount one can receive?
 - Minimum discount: XX%
 - Maximum discount: YY%
 
-3. If I am not satisfied with the amount of discount I received, to whom should I share my concers?
+3.&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
+
 The amount of discount is recommended by the CNES Panel. The decision of the Panel is final. In case you'd like to share your concers, feel free to drop an email to info@kcdchennai.in. However, the discount originally granted to you cannot be modified.
 
-4. How can I give feedback to the Organizers about the CNES program?
+4.&nbsp;How can I give feedback to the Organizers about the CNES program?
+
 Feel free to provide your feedback by writing to info@kcdchennai.in
 
-5. I applied for the Scholarship and received a CNES discount code. However my situation changed and I won't be able to attend KCD Chennai 2023. Can I have my friend/colleague use the discount code?
+5.&nbsp;I applied for the Scholarship and received a CNES discount code. However my situation changed and I won't be able to attend KCD Chennai 2023. Can I have my friend/colleague use the discount code?
+
 Yes, you can have your friend/colleague use the discount code.
 
-6. I purchased a ticket to KCD Chennai 2023 using the CNES discount code. Can I cancel/transfer the ticket to another person?
-Tickets purchased using CNES discount code cannot be cancelled. However you can trasfer the ticket to another person by writing to info@kcdchennai.in. Transfer of tickets is only applicable for tickets purchased using CNES discount code. Regular tickets cannot be cancelled/trasferred.
+6.&nbsp;I purchased a ticket to KCD Chennai 2023 using the CNES discount code. Can I cancel/transfer the ticket to another person?
+
+Tickets purchased using CNES discount code cannot be cancelled. However you can transfer the ticket to another person by writing to info@kcdchennai.in.
+
+**Note:** Transfer of tickets is only applicable for tickets purchased using CNES discount code. Regular tickets cannot be cancelled/trasferred.
 
 ## Contact us if you have questions
 
