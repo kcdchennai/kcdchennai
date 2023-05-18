@@ -25,12 +25,14 @@ For more details, visit our website https://kcdchennai.in
 ## Community Partner Responsibilities
 
 **Mandatory:**
-- Promote the event on your community's website, social media handles and other marketing materials. Promote the event through your network and contacts.
-- Min. 2 posts from your social media handles (Twitter and LinkedIn)
-- Min. 2 emails to your community members
-- Min. 5 retweets/reposts from your social media handles
-- Refer min. 3 sponsors for the event
-- Sell min. 25 tickets to your community members, using discount vouchers
+- Promote the event on your community's website, social media handles and other marketing materials.
+- Promote the event through your network and contacts.
+- Promote the event in your meetups, webinars etc.
+- Min. 2 posts from your social media handles (Twitter and LinkedIn). Content of the posts will be shared by KCD Chennai.
+- Min. 2 emails to your community members. Content of the email will be shared by KCD Chennai.
+- Min. 5 retweets/reposts from your social media handles. KCD Chennai will indicate which posts to be retweeted/reposted.
+- Refer min. 3 sponsors for the event.
+- Sell tickets to your community members using discount vouchers.
 
 **Optional:**
 - Provide volunteers to assist with the organization and management of the event.
@@ -47,9 +49,10 @@ For more details, visit our website https://kcdchennai.in
 - Get to promote your community during KCD Chennai 2023 event.
   - Your community logo on the event website
   - Community partner announcement from KCD Chennai social media handles (Twitter & LinkedIn)
-  - One pull-up standee of your community in the venue (cost to be borne by community partner).
-  - In case you help in securing at least 1 sponsor for KCD Chennai 2023,
-    - we'll allot a basic booth (3 x 3 m) for your community in the venue at our own cost. The cost of setting up the booth with banners, signage, LED screens etc. to be borne by community partner.
+  - If you succeed is selling at least 25 tickets,
+    - we'll let you place 1 pull-up standee (5 x 2 ft) of your community in the venue (cost to be borne by community partner).
+  - If you succeed in securing at least 1 sponsor for KCD Chennai 2023,
+    - we'll allot 1 basic booth (3 x 3 m) for your community in the venue at our own cost. The cost of setting up the booth with banners, signage, LED screens etc. to be borne by community partner.
     - we'll allow you to present your community to the attendees in a brief 5 minute talk (1 slide only)
 
 
