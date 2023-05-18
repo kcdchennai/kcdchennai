@@ -42,27 +42,27 @@ The application process is very simple.
 
 ## Frequently Asked Questions (FAQs)
 
-1.&nbsp;Is every applicant guaranteed to receive the discount code?
+**1.**&nbsp;Is every applicant guaranteed to receive the discount code?
 
 No. If an applicant submits at least one valid proof mentioned in the Assessment Criteria, he/she is guaranteed to receive the discount code
 
-2.&nbsp;What is the minimum and maximum discount one can receive?
+**2.**&nbsp;What is the minimum and maximum discount one can receive?
 - Minimum discount: XX%
 - Maximum discount: YY%
 
-3.&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
+**3.**&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
 
 The amount of discount is recommended by the CNES Panel. The decision of the Panel is final. In case you'd like to share your concers, feel free to drop an email to info@kcdchennai.in. However, the discount originally granted to you cannot be modified.
 
-4.&nbsp;How can I give feedback to the Organizers about the CNES program?
+**4.**&nbsp;How can I give feedback to the Organizers about the CNES program?
 
 Feel free to provide your feedback by writing to info@kcdchennai.in
 
-5.&nbsp;I applied for the Scholarship and received a CNES discount code. However my situation changed and I won't be able to attend KCD Chennai 2023. Can I have my friend/colleague use the discount code?
+**5.**&nbsp;I applied for the Scholarship and received a CNES discount code. However my situation changed and I won't be able to attend KCD Chennai 2023. Can I have my friend/colleague use the discount code?
 
 Yes, you can have your friend/colleague use the discount code.
 
-6.&nbsp;I purchased a ticket to KCD Chennai 2023 using the CNES discount code. Can I cancel/transfer the ticket to another person?
+**6.**&nbsp;I purchased a ticket to KCD Chennai 2023 using the CNES discount code. Can I cancel/transfer the ticket to another person?
 
 Tickets purchased using CNES discount code cannot be cancelled. However you can transfer the ticket to another person by writing to info@kcdchennai.in.
 
