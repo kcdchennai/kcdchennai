@@ -2,7 +2,7 @@
 
 The Cloud Native Enthusiast Scholarship (CNES) program from KCD Chennai is an effort to **celebrate** and **reward** you for your contribution towards advancement and adoption of Cloud Native technologies and tools.
 
-You'll be rewarded with a discount code to purchase tickets to KCD Chennai 2023. **You could win up to YY% discount**
+You'll be rewarded with a discount code to purchase tickets to KCD Chennai 2023. **You could win up to 25% discount**
 
 ## About KCD Chennai 2023
 
@@ -47,8 +47,8 @@ The application process is very simple.
 No. If an applicant submits at least one valid proof mentioned in the Assessment Criteria, he/she is guaranteed to receive the discount code
 
 **2.**&nbsp;What is the minimum and maximum discount one can receive?
-- Minimum discount: XX%
-- Maximum discount: YY%
+- Minimum discount: 10%
+- Maximum discount: 25%
 
 **3.**&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
 
