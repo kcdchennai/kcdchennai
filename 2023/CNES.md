@@ -22,7 +22,7 @@ The information you provide in the application will be reviewed by KCD Chennai's
 
 ## Assessment Criteria
 
-The CNES Panel assesses the information you provide and decides the amount of discount you are eligible to receive. The Panel specifically looks for the following information from applicants.
+The CNES Panel assesses the information you provide and decides the amount of discount you are eligible to receive. The Panel specifically looks for your contributions in one or more categories mentioned below. 
 
 - **Training courses:** If you've completed training courses on Kubernetes or Cloud Native technologies. You should submit course completion certificates of the courses you completed.
 - **Certification:** Holds one or more LF/CNCF certifications mentioned in the [LF Certification catalog](https://training.linuxfoundation.org/full-catalog/?_sft_product_type=certification)
@@ -30,6 +30,8 @@ The CNES Panel assesses the information you provide and decides the amount of di
 - **Knowledge sharing:** Teaching and sharing your knowledge/experience on Kubernetes and Cloud Native technologies/projects. E.g. Talks in Conferences, Presentations in Meetups, Creating YouTube Videos, Conducting Webinars, Conducting Training courses etc.
 - **Open source contribution:** Contribution in all forms is welcome: Submitting PR, Maintainer, Reviewer, Issues triage etc.
 - **Building communities:** Organizing Conferences, meetups or community groups. Contribution as a volunteer is accepted as well.
+
+You are not expected to have contributed to all the categories. Just mention the contributions you've made, along with proofs.
 
 ## Application Process
 
