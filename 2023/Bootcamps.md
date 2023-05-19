@@ -16,9 +16,21 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 
 ## DevOps Bootcamp
 
-| Start Date | End Date  |  Duration | Cost         |
-|:----------:|:---------:|:---------:|:------------:|
-| 01-Jul-23  | 16-Sep-23 | 40 hrs.   | &#8377; 6999 |
+| Start Date | End Date  |  Time              |  Duration | Cost         |
+|:----------:|:---------:|:------------------:|:---------:|:------------:|
+| 01-Jul-23  | 16-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   | &#8377; 6999 |
+
+### Instructors
+
+| Instructor                 | Title                       | Company  | LinkedIn |
+|----------------------------|-----------------------------|----------|----------|
+| Mathagi Arun R             | Senior DevOps Engineer      | Ericsson | [Click](https://www.linkedin.com/in/mathagi-arun-r-14b14549/)    |
+| Karthick K                 | Infrastructure Engineer     | Ericsson | [Click](https://www.linkedin.com/in/karthick-k-4927933a/)    |
+| Somanath Jeeva             | Senior Software Engineer    | Ericsson | [Click]()    |
+| Chidambaranathan R         | Principal Software Engineer | Ericsson | [Click](https://www.linkedin.com/in/chidambaranathanramachandran/)    |
+| Dhinakaran Maruthapillai   | Senior Software Engineer    | Ericsson | [Click](https://www.linkedin.com/in/dhinakaran-maruthapillai-8a823458/)    |
+| Senthil Raja Chermapandian | Principal Software Engineer | Ericsson | [Click](https://www.linkedin.com/in/senthilrch/)    |
+| Raman Narasimhan           | Senior Software Engineer    | Ericsson | [Click](https://www.linkedin.com/in/ramannarasimhan7/)    |
 
 ### Topics and Schedule
 
