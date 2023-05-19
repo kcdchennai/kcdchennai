@@ -52,7 +52,7 @@ No. If an applicant submits at least one valid proof mentioned in the Assessment
 
 **3.**&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
 
-The amount of discount is recommended by the CNES Panel. The decision of the Panel is final. In case you'd like to share your concers, feel free to drop an email to info@kcdchennai.in. However, the discount originally granted to you cannot be modified.
+The amount of discount is recommended by the CNES Panel. The decision of the Panel is final. In case you'd like to share your concerns, feel free to drop an email to info@kcdchennai.in. However, the discount originally granted to you cannot be modified.
 
 **4.**&nbsp;How can I give feedback to the Organizers about the CNES program?
 
