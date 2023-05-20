@@ -38,7 +38,7 @@ You are not expected to have contributed to all the categories. Just mention the
 The application process is very simple.
 
 1. Write an email to kcdchennai@gmail.com providing proofs for assessment criteria mentioned in previous section
-2. The CNES Panel reviews the information provided in the email recommends the amount of discount.
+2. The CNES Panel reviews the information provided in the email and recommends the amount of discount.
 3. You'll receive a reply to your email with a discount code mentioned in it.
 4. Head to https://kcdchennai.in/tickets and purchase your ticket using the discount code.
 
