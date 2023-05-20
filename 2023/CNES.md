@@ -52,7 +52,7 @@ No. If an applicant submits at least one valid proof mentioned in the Assessment
 - Minimum discount: 10%
 - Maximum discount: 25%
 
-**3.**&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concers?
+**3.**&nbsp;If I am not satisfied with the amount of discount I received, to whom should I share my concerns?
 
 The amount of discount is recommended by the CNES Panel. The decision of the Panel is final. In case you'd like to share your concerns, feel free to drop an email to info@kcdchennai.in. However, the discount originally granted to you cannot be modified.
 
