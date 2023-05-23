@@ -46,6 +46,8 @@ For more details, visit our website https://kcdchennai.in
 
 ## Your entitlements
 
+- 2 Complimentary tickets
+- Tickets at discounted price to your community members
 - Get to promote your community during KCD Chennai 2023 event.
   - Your community logo on the event website
   - Community partner announcement from KCD Chennai social media handles (Twitter & LinkedIn)
