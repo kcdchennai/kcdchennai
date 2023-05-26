@@ -16,7 +16,7 @@ These bootcamps are aimed are imparting the skills required for your job, so you
 
 ### Registration
 
-Register @ [https://www.townscript.com/e/kcdchennai-bootcamps](https://www.townscript.com/e/kcdchennai-bootcamps)
+Register @ [https://kcdchennai.in/bootcamps](https://kcdchennai.in/bootcamps)
 
 ## Table of contents
 - [DevOps Bootcamp](#devops-bootcamp)
