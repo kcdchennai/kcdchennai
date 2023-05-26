@@ -45,7 +45,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | 5-Aug  | Testing framework (Unit test, Functional test)                          | Soma            | 2 hrs.   |
 | 12-Aug | DevSecOps: Scanning for vulnerabilities in Code and Container Images    | Arun            | 2 hrs.   |
 | 12-Aug | DevSecOps: CVEs, NVD, Analysing and   Fixing CVEs                       | Nathan          | 2 hrs.   |
-| 19-Aug | Bulding container images, Artifact   Repo                               | Dhina           | 3 hrs.   |
+| 19-Aug | Building container images, Artifact   Repo                              | Dhina           | 3 hrs.   |
 | 26-Aug | Kubernetes Part 1                                                       | Dhina           | 4 hrs.   |
 | 2-Sep  | Kubernetes Part 2                                                       | Dhina           | 4 hrs.   |
 | 9-Sep  | Metrics and Logging                                                     | Dhina           | 3 hrs.   |
@@ -135,7 +135,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 2. National Vulnerability Database (NVD)
 3. Analysing and Fixing CVEs
 
-#### 11. Bulding container images, Artifact Repo
+#### 11. Building container images, Artifact Repo
 #### 12. Kubernetes Part 1
 #### 13. Kubernetes Part 2
 #### 14. Metrics and Logging
