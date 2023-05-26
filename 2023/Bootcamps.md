@@ -49,7 +49,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | 26-Aug | Kubernetes Part 1                                                       | Dhina           | 4 hrs.   |
 | 2-Sep  | Kubernetes Part 2                                                       | Dhina           | 4 hrs.   |
 | 9-Sep  | Metrics and Logging                                                     | Dhina           | 3 hrs.   |
-| 16-Sep | GitOps using ArgoCD                                                     | Raman           | 4 hrs.   |
+| 16-Sep | GitOps using ArgoCD                                                     | Senthil & Raman | 4 hrs.   |
 
 ### Curriculum
 
