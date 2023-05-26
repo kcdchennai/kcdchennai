@@ -2,9 +2,9 @@
 
 [KCD Chennai](https://kcdchennai.in) is a community-organized, not-for-profit event that gathers adopters and technologists from open source and cloud native communities for education, collaboration, and networking.
 
-Learning need not wait till the day of the event! KCD Chennai has organized 2 live bootcamps to help you gain deeper and broader skills on DevOps and Kubernetes. It is our endeavor to offer industry-leading quality education to the community, by experts in the community.
+Learning need not wait till the day of the event! KCD Chennai brings you 2 live bootcamps to help you gain deeper and broader job-oriented skills on DevOps and Kubernetes. It is our endeavor to offer industry-leading quality education to the community, delivered by experts in the community.
 
-These bootcamps are aimed are imparting the exact skills required for your job, so you can excel in your role.
+These bootcamps are aimed are imparting the skills required for your job, so you can excel in your role.
 
 ### Salient features of the bootcamps
 
@@ -13,11 +13,25 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 3. **Live** Bootcamps gives you the freedom to ask questions and receive clarification in real-time. No waiting to post your questions in an offline forum!
 4. All sessions are **recorded**. In case you happen to miss a session, you can catch-up.
 
+### Registration
+
+Register @ [https://www.townscript.com/e/kcdchennai-bootcamps](https://www.townscript.com/e/kcdchennai-bootcamps)
+
+## Table of contents
+- [DevOps Bootcamp](#devops-bootcamp)
+  - [Instructors](#instructors)
+  - [Schedule](#schedule)
+  - [Curriculum](#curriculum)    
+- [Kubernetes Bootcamp](#kubernetes-bootcamp)
+  - [Instructors](#instructors)
+  - [Schedule](#schedule)
+  - [Curriculum](#curriculum)    
+
 ## DevOps Bootcamp
 
-| Start Date | End Date  |  Time              |  Duration | Cost         |
-|:----------:|:---------:|:------------------:|:---------:|:------------:|
-| 01-Jul-23  | 16-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   | &#8377; 6999 |
+| Start Date | End Date  |  Time              |  Duration | 
+|:----------:|:---------:|:------------------:|:---------:|
+| 01-Jul-23  | 16-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   |
 
 ### Instructors
 
@@ -159,9 +173,9 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 9. Lab: ApplicationSet
 
 ## Kubernetes Bootcamp
-| Start Date | End Date  |  Time              |  Duration | Cost         |
-|:----------:|:---------:|:------------------:|:---------:|:------------:|
-| 01-Jul-23  | 09-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   | &#8377; 6999 |
+| Start Date | End Date  |  Time              |  Duration |
+|:----------:|:---------:|:------------------:|:---------:|
+| 01-Jul-23  | 09-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   |
 
 ### Instructors
 
