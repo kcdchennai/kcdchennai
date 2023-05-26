@@ -39,7 +39,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | 1-Jul  | CI/CD Pipeline using Jenkins                                            | Arun            | 2 hrs.   |
 | 8-Jul  | Infra as Code using Terraform                                           | Karthick        | 3 hrs.   |
 | 15-Jul | Configuration Management using Ansible                                  | Karthick        | 3 hrs.   |
-| 29-Jul | Source Control Management: Git,   GitHub                                | Soma            | 2 hrs.   |
+| 29-Jul | Source Control Management: Git, GitHub                                  | Soma            | 2 hrs.   |
 | 29-Jul | Python programming   Part 1                                             | Soma            | 2 hrs.   |
 | 5-Aug  | Python programming Part 2                                               | Soma            | 2 hrs.   |
 | 5-Aug  | Testing framework (Unit test, Functional test)                          | Soma            | 2 hrs.   |
