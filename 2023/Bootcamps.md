@@ -10,8 +10,9 @@ These bootcamps are aimed are imparting the skills required for your job, so you
 
 1. Online Live Bootcamps during **Saturdays**. Offers you the flexibility to meet professional commitments on weekdays.
 2. Instructors are working professionals with day-to-day **hands-on** experience on the topics.
-3. **Live** Bootcamps gives you the freedom to ask questions and receive clarification in real-time. No waiting to post your questions in an offline forum!
-4. All sessions are **recorded**. In case you happen to miss a session, you can catch-up.
+3. **Live** Bootcamps gives you the freedom to ask questions and receive clarification in real-time.
+4. Plenty of live demos
+5. All sessions are **recorded**. In case you happen to miss a session, you can catch-up.
 
 ### Registration
 
