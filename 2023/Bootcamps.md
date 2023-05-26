@@ -23,9 +23,9 @@ Register @ [https://www.townscript.com/e/kcdchennai-bootcamps](https://www.towns
   - [Schedule](#schedule)
   - [Curriculum](#curriculum)    
 - [Kubernetes Bootcamp](#kubernetes-bootcamp)
-  - [Instructors](#instructors)
-  - [Schedule](#schedule)
-  - [Curriculum](#curriculum)    
+  - [Instructors](#instructors-1)
+  - [Schedule](#schedule-1)
+  - [Curriculum](#curriculum-1)    
 
 ## DevOps Bootcamp
 
