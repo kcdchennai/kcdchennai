@@ -53,8 +53,23 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | 16-Sep | GitOps using ArgoCD                                                     | Senthil & Raman | 4 hrs.   |
 
 ### DevOps and SRE Concepts
+1. What is DevOps?
+2. Evolution of DevOps
+3. DevOps Tools & Concepts
+4. Benefits of DevOps
+5. What is SRE?
+6. Evolution of SRE
+7. SRE Tools & Concepts
+8. Benefits of SRE
+9. DevOps vs/& SRE
 
 ### CI/CD Pipeline using Jenkins
+1. What is CI/CD?
+2. Differences between CI & CD
+3. What is Jenkins?
+4. Why use Jenkin pipeline
+5. Jenkins Pipeline Concepts
+6. Lab: Create and Run a Jenkins Pipeline
 
 ### Infra as Code using Terraform
 1. Introduction to IaC and Terraform
@@ -74,11 +89,51 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 7. Troubleshoot and Debug Playbooks
 
 ### Source Control Management: Git, GitHub
+1. What is Git and Why it is needed?
+2. Installing Git
+3. Git Repositories and GitHub
+4. Git branches
+5. Add, Commit & Push change
+6. Pull & Rebase
+7. Code Review
+
 ### Python programming Part 1
+1. Installing Python
+2. Interpreter, Variables
+3. Operators
+4. Modules - os,sys,subprocess,re,etc
+5. Conditions and loops
+6. Creating and executing a python script
+
 ### Python programming Part 2
+1. List, tuples, dictionaries
+2. Working with files
+3. Functions
+4. Exception handling
+5. Logging
+
 ### Testing framework (Unit test & Functional test)
+1. What is Unit test? Why unit test?
+2. Setup PyTest
+3. Creating Test Cases for a script
+4. Executing testcases
+5. What is Robot Test Framework?
+6. Install and configure
+7. Creating and executing robot test
+
 ### DevSecOps: Scanning for vulnerabilities in Code and Container Images
+1. What is DevSecOps?
+2. Evolution of DevSecOps
+3. DevSecOps Tools & Concepts
+4. Benefits of DevSecOps
+5. Lab: Static Code Analysis using SonarQube
+6. Lab: Scanning Container Images using Trivy
+
 ### DevSecOps: CVEs, NVD, Analysing and Fixing CVEs
+1. What are CVEs?
+2. National Vulnerability Database (NVD)
+3. Analysing and Fixing CVEs
+
 ### Bulding container images, Artifact Repo
 ### Kubernetes Part 1
 ### Kubernetes Part 2
