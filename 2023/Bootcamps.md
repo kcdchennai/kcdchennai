@@ -140,5 +140,14 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 #### 13. Kubernetes Part 2
 #### 14. Metrics and Logging
 #### 15. GitOps using ArgoCD
+1. Intro to GitOps
+2. Principles and benefits of GitOps
+3. Push and Pull Deployments
+4. Intro to ArgoCD
+5. Architecture of ArgoCD
+6. ArgoCD Components
+7. Lab: ArgoCD Installation
+8. Lab: Application
+9. Lab: ApplicationSet
 
 ## Kubernetes Bootcamp
