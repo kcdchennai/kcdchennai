@@ -12,7 +12,6 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 2. Instructors are working professionals with day-to-day **hands-on** experience on the topics.
 3. **Live** Bootcamps gives you the freedom to ask questions and receive clarification in real-time. No waiting to post your questions in an offline forum!
 4. All sessions are **recorded**. In case you happen to miss a session, you can catch-up.
-5. Free CKA/CKAD exam vouchers to attendees who fulfill the criteria for successful completion.
 
 ## DevOps Bootcamp
 
