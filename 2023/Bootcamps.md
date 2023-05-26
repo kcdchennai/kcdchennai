@@ -32,7 +32,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | Senthil Raja Chermapandian | Principal Software Engineer | Ericsson | [Click](https://www.linkedin.com/in/senthilrch/)    |
 | Raman Narasimhan           | Senior Software Engineer    | Ericsson | [Click](https://www.linkedin.com/in/ramannarasimhan7/)    |
 
-### Topics and Schedule
+### Schedule
 
 | Date   | Topics                                                                  | Instructor      | Duration |
 |--------|-------------------------------------------------------------------------|-----------------|----------|
@@ -46,13 +46,15 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 | 5-Aug  | Testing framework (Unit test, Functional test)                          | Soma            | 2 hrs.   |
 | 12-Aug | DevSecOps: Scanning for vulnerabilities in Code and Container Images    | Arun            | 2 hrs.   |
 | 12-Aug | DevSecOps: CVEs, NVD, Analysing and   Fixing CVEs                       | Nathan          | 2 hrs.   |
-| 19-Aug | Bulding container images, Artifact   Repo                               | Dhina ??        | 3 hrs.   |
-| 26-Aug | Kubernetes Part 1                                                       | Senthil         | 4 hrs.   |
-| 2-Sep  | Kubernetes Part 2                                                       | Senthil         | 4 hrs.   |
-| 9-Sep  | Metrics and Logging                                                     | Dhina ??        | 3 hrs.   |
-| 16-Sep | GitOps using ArgoCD                                                     | Senthil & Raman | 4 hrs.   |
+| 19-Aug | Bulding container images, Artifact   Repo                               | Dhina           | 3 hrs.   |
+| 26-Aug | Kubernetes Part 1                                                       | Dhina           | 4 hrs.   |
+| 2-Sep  | Kubernetes Part 2                                                       | Dhina           | 4 hrs.   |
+| 9-Sep  | Metrics and Logging                                                     | Dhina           | 3 hrs.   |
+| 16-Sep | GitOps using ArgoCD                                                     | Raman           | 4 hrs.   |
 
-### DevOps and SRE Concepts
+### Curriculum
+
+#### 1. DevOps and SRE Concepts
 1. What is DevOps?
 2. Evolution of DevOps
 3. DevOps Tools & Concepts
@@ -63,7 +65,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 8. Benefits of SRE
 9. DevOps vs/& SRE
 
-### CI/CD Pipeline using Jenkins
+#### 2. CI/CD Pipeline using Jenkins
 1. What is CI/CD?
 2. Differences between CI & CD
 3. What is Jenkins?
@@ -71,7 +73,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 5. Jenkins Pipeline Concepts
 6. Lab: Create and Run a Jenkins Pipeline
 
-### Infra as Code using Terraform
+#### 3. Infra as Code using Terraform
 1. Introduction to IaC and Terraform
 2. Terraform Installation
 3. Terraform configuration, state files for Infrastructure Definition
@@ -79,7 +81,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 5. Manage Terraform resources and dependencies
 6. Debugging Terraform configurations.
 
-### Configuration Management using Ansible
+#### 4. Configuration Management using Ansible
 1. Introduction to configuration management and Ansible
 2. Ansible Installation and Setup
 3. Inventory Hosts and Groups
@@ -88,7 +90,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 6. Using Roles
 7. Troubleshoot and Debug Playbooks
 
-### Source Control Management: Git, GitHub
+#### 5. Source Control Management: Git, GitHub
 1. What is Git and Why it is needed?
 2. Installing Git
 3. Git Repositories and GitHub
@@ -97,7 +99,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 6. Pull & Rebase
 7. Code Review
 
-### Python programming Part 1
+#### 6. Python programming Part 1
 1. Installing Python
 2. Interpreter, Variables
 3. Operators
@@ -105,14 +107,14 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 5. Conditions and loops
 6. Creating and executing a python script
 
-### Python programming Part 2
+#### 7. Python programming Part 2
 1. List, tuples, dictionaries
 2. Working with files
 3. Functions
 4. Exception handling
 5. Logging
 
-### Testing framework (Unit test & Functional test)
+#### 8. Testing framework (Unit test & Functional test)
 1. What is Unit test? Why unit test?
 2. Setup PyTest
 3. Creating Test Cases for a script
@@ -121,7 +123,7 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 6. Install and configure
 7. Creating and executing robot test
 
-### DevSecOps: Scanning for vulnerabilities in Code and Container Images
+#### 9. DevSecOps: Scanning for vulnerabilities in Code and Container Images
 1. What is DevSecOps?
 2. Evolution of DevSecOps
 3. DevSecOps Tools & Concepts
@@ -129,15 +131,15 @@ These bootcamps are aimed are imparting the exact skills required for your job, 
 5. Lab: Static Code Analysis using SonarQube
 6. Lab: Scanning Container Images using Trivy
 
-### DevSecOps: CVEs, NVD, Analysing and Fixing CVEs
+#### 10. DevSecOps: CVEs, NVD, Analysing and Fixing CVEs
 1. What are CVEs?
 2. National Vulnerability Database (NVD)
 3. Analysing and Fixing CVEs
 
-### Bulding container images, Artifact Repo
-### Kubernetes Part 1
-### Kubernetes Part 2
-### Metrics and Logging
-### GitOps using ArgoCD
+#### 11. Bulding container images, Artifact Repo
+#### 12. Kubernetes Part 1
+#### 13. Kubernetes Part 2
+#### 14. Metrics and Logging
+#### 15. GitOps using ArgoCD
 
 ## Kubernetes Bootcamp
