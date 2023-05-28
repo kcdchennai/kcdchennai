@@ -174,9 +174,9 @@ Register @ [https://kcdchennai.in/bootcamps](https://kcdchennai.in/bootcamps)
 9. Lab: ApplicationSet
 
 ## Kubernetes Bootcamp
-| Start Date | End Date  |  Time              |  Duration |
-|:----------:|:---------:|:------------------:|:---------:|
-| 01-Jul-23  | 09-Sep-23 | 9:30 to 13:30 IST  | 40 hrs.   |
+| Start Date | End Date  |  Time               |  Duration |
+|:----------:|:---------:|:-------------------:|:---------:|
+| 01-Jul-23  | 09-Sep-23 | 14:00 to 18:00 IST  | 40 hrs.   |
 
 ### Instructors
 
