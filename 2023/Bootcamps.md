@@ -2,7 +2,7 @@
 
 [KCD Chennai](https://kcdchennai.in) is a community-organized, not-for-profit event that gathers adopters and technologists from open source and cloud native communities for education, collaboration, and networking.
 
-Learning need not wait till the day of the event! KCD Chennai brings you 2 live bootcamps to help you gain deeper and broader job-oriented skills on DevOps and Kubernetes. It is our endeavor to offer industry-leading quality education to the community, delivered by experts in the community.
+Learning need not wait till the day of the event! KCD Chennai brings you 2 live bootcamps to help you gain deeper and broader job-oriented skills on DevOps and Kubernetes. It is our endeavour to offer industry-leading quality education to the community, delivered by experts in the community.
 
 These bootcamps are aimed are imparting the skills required for your job, so you can excel in your role.
 
