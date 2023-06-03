@@ -153,16 +153,32 @@ Register @ [https://kcdchennai.in/bootcamps](https://kcdchennai.in/bootcamps)
 3. Analysing and Fixing CVEs
 
 #### 11. Building container images, Artifact Repo
-(To be updated)
+1. Introduction to Container Images
+2. Building Container Images
+3. Container Image Registries
+4. Container Image tagging and versioning
+5. Artifact Repository Management
 
 #### 12. Kubernetes Part 1
-(To be updated)
+1. Introduction & Core Concepts
+2. Pod management
+3. Services & Networking
+4. Configuration
+5. Observability
 
 #### 13. Kubernetes Part 2
-(To be updated)
+1. State Persistence
+2. Authentication, Authorization & Admission Control
+3. Role Based Access Control (RBAC)
+4. CRD & Custom Controllers
+5. Deployment strategy
+6. Helm Package Manager
 
 #### 14. Metrics and Logging
-(To be updated)
+1. Introduction to Kubernetes Metrics & Logging
+2. Metrics Collection Architecture
+3. Custom Metrics
+4. Log Management
 
 #### 15. GitOps using ArgoCD
 1. Intro to GitOps
