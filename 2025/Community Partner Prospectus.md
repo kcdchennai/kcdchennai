@@ -46,7 +46,7 @@ For more details, visit our website https://kcdchennai.in
  
 ## Your entitlements
  
-- 2 Complimentary tickets per community
+- 2 Complimentary tickets per community upon completing the mandatory responsibilities listed above
 - Tickets at discounted price to your community members
 - Get to promote your community during KCD Chennai 2025 event.
   - Your community logo on the event website
