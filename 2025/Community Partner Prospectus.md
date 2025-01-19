@@ -30,7 +30,7 @@ For more details, visit our website https://kcdchennai.in
 - Promote the event in your meetups, webinars etc.
 - Min. 2 posts from your social media handles (X, LinkedIn etc.). Template of the posts will be shared by KCD Chennai.
 - Min. 2 emails to your community members. Template of the email will be shared by KCD Chennai.
-- Min. 5 reposts from your social media handles. KCD Chennai will indicate which posts to be retweeted/reposted.
+- Min. 5 reposts from your social media handles. KCD Chennai will indicate which posts to be reposted.
 - Sell tickets to your community members using discount vouchers.
  
 **Optional:**
